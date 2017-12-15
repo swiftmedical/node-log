@@ -1,0 +1,15 @@
+{
+  "name": "@swiftmedical/log",
+  "version": "1.0.0",
+  "description": "Pre-initialized pino from process.env.LOG_LEVEL Edit",
+  "main": "index.js",
+  "dependencies": {
+    "pino": "^4.10.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/swiftmedical/node-log.git"
+  },
+  "author": "Dan Williams <dan@swiftmedical.io>",
+  "license": "MIT"
+}
